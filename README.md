@@ -19,6 +19,7 @@ Web:          HTML | CSS | Node.js | React | Express
 Databases:    MongoDB | MySQL | Firebase
 Tools:        Git | Docker | Linux | VS Code | Postman
 Platforms:    Windows | Ubuntu | Heroku | Netlify | Vercel
+```
 
 📌 Projects
 🚨 Flood Warning IoT System – Real-time alert system using water level sensors and notifications
