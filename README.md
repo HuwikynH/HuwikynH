@@ -26,7 +26,7 @@ I’m passionate about software development, data, and learning new technologies
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white)
 
 
-##📌 Projects
+## 📌 Projects
 
 🚨 Flood Warning IoT System – Real-time alert system using water level sensors and notifications
 
