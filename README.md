@@ -22,6 +22,7 @@ Platforms:    Windows | Ubuntu | Heroku | Netlify | Vercel
 ```
 
 📌 Projects
+
 🚨 Flood Warning IoT System – Real-time alert system using water level sensors and notifications
 
 🔢 Personalized PageRank on Apache Spark – Implemented graph-based ranking with PySpark RDD
